@@ -12,5 +12,12 @@
     "node"
   ],
   "author": "Cristian Franco <cfrancobedoya@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
 }
