@@ -95,12 +95,15 @@ $ npm install json-server@latest
 ---
 
 ## COMMANDS IN NPM (SCRIPTS)
+
 ### Node Package Management
+
 ```terminal
 $ npm run start
 ```
 
 ### Node Package Execute
+
 ```terminal
-$ npx 
+$ npx create-react
 ```
