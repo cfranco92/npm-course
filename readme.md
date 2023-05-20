@@ -86,8 +86,21 @@ $ npm install json-server@0.15.0
 
 ---
 
-## INSTALL NEWEST VERSION
+## INSTALL LATEST VERSION
 
 ```terminal
 $ npm install json-server@latest
+```
+
+---
+
+## COMMANDS IN NPM (SCRIPTS)
+### Node Package Management
+```terminal
+$ npm run start
+```
+
+### Node Package Execute
+```terminal
+$ npx 
 ```
