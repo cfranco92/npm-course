@@ -159,3 +159,33 @@ $ npm audit fix --force
 ```terminal
 $ npm uninstall webpack-dev-server
 ```
+
+### Delete all dependencies and reinstall
+
+```terminal
+$ rm -rf node_modules
+```
+
+---
+
+## Build application
+
+### Normal
+
+```terminal
+$ npm run build
+```
+
+### Verbose mode
+
+```terminal
+$ npm run build --dd
+```
+
+---
+
+## Check packages
+
+```terminal
+$ npm ci
+```
