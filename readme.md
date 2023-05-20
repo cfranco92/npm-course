@@ -46,6 +46,12 @@ $ npm install react --save
 $ npm install -g cowsay
 ```
 
+### Optional
+
+```terminal
+$ npm install -o eslint
+```
+
 ---
 
 ## LIST PACKAGES
@@ -60,4 +66,28 @@ $ npm list
 
 ```terminal
 $ npm list -g
+```
+
+---
+
+## SIMULATE INSTALLATION
+
+```terminal
+$ npm install react-dom --dry-run
+```
+
+---
+
+## INSTALL SPECIFIC VERSION
+
+```terminal
+$ npm install json-server@0.15.0
+```
+
+---
+
+## INSTALL NEWEST VERSION
+
+```terminal
+$ npm install json-server@latest
 ```
