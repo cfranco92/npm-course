@@ -189,3 +189,33 @@ $ npm run build --dd
 ```terminal
 $ npm ci
 ```
+
+---
+
+## Check package locally without publish it
+
+### Generate link
+
+```terminal
+$ npm link
+```
+
+### Install package globally
+
+```terminal
+$ npm install g /Users/cristianfranco/Documents/courses/npm-course/random-str-msg-cfranco92
+```
+
+### Add NPM user
+
+```terminal
+$ npm adduser
+```
+
+---
+
+## Publish package
+
+```terminal
+$ npm publish
+```
