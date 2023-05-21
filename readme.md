@@ -219,3 +219,11 @@ $ npm adduser
 ```terminal
 $ npm publish
 ```
+
+---
+
+## Change NPM version
+
+```terminal
+$ npm version 1.1.0
+```
